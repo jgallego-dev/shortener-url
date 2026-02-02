@@ -1,0 +1,1 @@
+Always write commit messages in English.
